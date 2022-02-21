@@ -5,5 +5,7 @@ time.sleep(3)
 with open('code.txt','r')as f:
     lines=f.readlines()
     for line in lines:
-    
+        time.sleep(0.1)
         pyautogui.write(line.lstrip())
+       
+       
