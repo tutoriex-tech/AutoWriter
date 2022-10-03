@@ -1,3 +1,3 @@
 # AutoWriter
 
-Writes code autometically on your online java compiler!
+Writes code autometically in your online java compiler!
